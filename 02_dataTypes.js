@@ -11,8 +11,8 @@ console.table([num, text, isTrue, empty, notDefined, bigNum, sym]);
 console.log(typeof num); // typeof is unary operator used find type of data
 
 // 2. Non-Primitive DataTypes
-let person = { name: "Alice", age: 25 }; // Object (Key-Value pairs)
+let person = { name: "Mayank", age: 25 }; // Object (Key-Value pairs)
 let numbers = [1, 2, 3, 4]; // Array (Ordered list of values)
 function greet() {
-  console.log("Hello");
+  console.log("Gay");
 } // Function (Executable block of code)
